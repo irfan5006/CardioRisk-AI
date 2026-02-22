@@ -229,7 +229,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Muhammad Irfan**
 
-- 🌐 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- Gmail : irfan.datalytics@gmail.com
 
 ---
 
